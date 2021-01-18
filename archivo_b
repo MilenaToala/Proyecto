@@ -1,0 +1,4 @@
+<?php
+echo "Primer linea de codigo archivo_b"
+echo "Segunda linea de codigo archivo_b"
+php>
